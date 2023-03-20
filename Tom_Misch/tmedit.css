@@ -1,0 +1,77 @@
+
+html
+{
+	background-image: url(tmfond.jpg);
+}
+
+body
+{
+	font-family: "Comic Sans MS", cursive, sans-serif;
+}
+
+nav
+{
+	background:#F0B334;
+}
+
+h2
+{
+	color:#F0B334;
+	opacity:0.9;
+}
+
+h3
+{
+	color:white;
+	background:#F0B334;
+	opacity:0.9;
+}
+
+.class1
+{
+	text-align:left;
+	font-size: 15px;
+	color:#FFE675;
+	font-weight:bold;
+}
+
+h4
+{
+	height:170px;
+	width:1140px;
+	color:white;
+	background:#F0B334;
+	margin:-662px 1000px -10px 380px;
+	opacity:0.92;
+}
+
+h5
+{
+	height:470px;
+	width:370px;
+	background:#F0B334;
+	opacity:0.92;
+	color:white;
+}
+
+h6
+{
+	color:white;
+}
+
+.p1
+{
+	color:white;
+	font-size: 18px;
+}
+
+.p2
+{
+	margin:-430px -500px 100px 480px;
+	color:white;
+}
+
+ul
+{
+	margin:-200px 400px 0px 400px ;
+}

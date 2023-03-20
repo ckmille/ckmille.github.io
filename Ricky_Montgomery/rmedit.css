@@ -1,0 +1,77 @@
+
+html
+{
+	background-image: url(rmfond.png);
+}
+
+body
+{
+	font-family: "Comic Sans MS", cursive, sans-serif;
+}
+
+nav
+{
+	background:#E1C498;
+}
+
+h2
+{
+	color:#E1C498;
+	opacity:0.7;
+}
+
+h3
+{
+	color:#4B4643;
+	background:#E1C498;
+	opacity:0.7;
+}
+
+.class1
+{
+	text-align:left;
+	font-size: 15px;
+	color:white;
+	font-weight:bold;
+}
+
+h4
+{
+	height:170px;
+	width:1140px;
+	color:white;
+	margin:-662px 1000px -10px 380px;
+	background:#E1C498;
+	opacity:0.7;
+}
+
+h5
+{
+	height:470px;
+	width:370px;
+	background:#E1C498;
+	opacity:0.7;
+	color:#4B4643;
+}
+
+h6
+{
+	color:#4B4643;
+}
+
+.p1
+{
+	color:#4B4643;
+	font-size: 17px;
+}
+
+.p2
+{
+	color:#4B4643;
+	margin:-420px -500px 100px 580px;
+}
+
+ul
+{
+	margin:-350px 400px 0px 400px ;
+}
