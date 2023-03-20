@@ -1,0 +1,76 @@
+html
+{
+    font-family: fantasy, "Comic Sans MS", cursive, sans-serif;
+	color:white ;
+	font-size: small;
+	background-repeat: no-repeat;
+}
+
+h1
+{
+	font-family: "Trebuchet MS", sans-serif;
+	margin:-10px 150px 0px 190px;
+	background-color:none;
+	opacity:0.9;
+	text-align: center; 
+    color: white;
+	font-variant: small-caps; 
+    font-weight: 500;
+	font-size: 60px;
+}
+
+nav   { 
+		
+		font-family: fantasy, "Comic Sans MS", cursive, sans-serif;
+		text-align:center;
+		height:762px;
+		width:200px;
+		margin:-70px 5px 0px -10px;
+		font-size: 25px;
+		float:left; 
+		list-style: none;
+		opacity:0.9;
+		border-right:solid white;
+}
+
+h2{
+        font-family: serif;
+        text-align:center;
+        font-size: 20px;
+        font-variant: small;
+        background-color:white;
+    	margin:-10px -8px 0px 190px;
+    	border-left:solid white;
+        border-bottom:solid white;
+}
+
+h3 {
+	font-family: "Gill Sans", sans-serif;
+	text-align:left;
+	height:472px;
+	width:174px;
+	margin:200px 10px 0px 195px;
+	font-size: 15px;
+	font-weight:normal;
+	list-style-type: square; 
+	border-right: solid white;
+	border-left: solid white;
+	border-top: solid white;
+	border-bottom: solid white;
+
+}
+
+h4{
+	height:170px;
+	width:1140px;
+	margin:-662px 1000px -10px 380px;
+	text-align:left;
+	font-family: "Trebuchet MS", sans-serif;
+	font-variant: small-caps; 
+	font-size: 25px;
+	font-weight:normal;
+	border-right: solid white;
+	border-left: solid white;
+	border-top: solid white;
+	border-bottom: solid white;
+}
