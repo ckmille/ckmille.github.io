@@ -1,5 +1,6 @@
 html{
 	background-image: url(ttcb.jpg); 
+	overflow-x:hidden
 }
 
 body {
