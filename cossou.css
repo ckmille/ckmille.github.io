@@ -1,46 +1,43 @@
-html
-{
-    font-family: fantasy, "Comic Sans MS", cursive, sans-serif;
-	color:white ;
-	font-size: small;
-	background-repeat: no-repeat;
-    background-size:auto;
-     overflow-x:hidden
-	
+html {
+    	 font-family: fantasy, "Comic Sans MS", cursive, sans-serif;
+	 color:white ;
+	 font-size: small;
+	 background-repeat: no-repeat;
+   	 background-size:auto;
+   	 overflow-x:hidden	
 }
-body 
-{
-    width:100%;
+
+body {
+   	 width:100%;
 }
-h1
-{
+
+h1 {
 	font-family: "Trebuchet MS", sans-serif;
 	margin:-10px 150px 0px 0px;
 	background-color:none;
 	opacity:0.9;
 	text-align: center; 
-    color: white;
+    	color: white;
 	font-variant: small-caps; 
-    font-weight: 500;
+    	font-weight: 500;
 	font-size: 60px;
-    width: 100%
+    	width: 100%
 }
 
-nav   { 
-		
-		font-family: fantasy, "Comic Sans MS", cursive, sans-serif;
-		text-align:center;
-		height:830px;
-		width:200px;
-		margin:-70px 5px 0px -10px;
-		font-size: 25px;
-		float:left; 
-		list-style: none;
-		opacity:0.9;
-		border-right:solid white;
+nav { 	
+	font-family: fantasy, "Comic Sans MS", cursive, sans-serif;
+	text-align:center;
+	height:830px;
+	width:200px;
+	margin:-70px 5px 0px -10px;
+	font-size: 25px;
+	float:left; 
+	list-style: none;
+	opacity:0.9;
+	border-right:solid white;
 }
 
-h2{
+h2 {
         font-family: serif;
         text-align:center;
         font-size: 20px;
@@ -64,16 +61,15 @@ h3 {
 	border-left: solid white;
 	border-top: solid white;
 	border-bottom: solid white;
-
 }
 
-h4{
+h4 {
 
 	text-align:left;
 	font-family: "Trebuchet MS", sans-serif;
 	font-variant: small-caps; 
 	font-size: 25px;
-    margin:-662px 1000px -10px 380px;
+  	margin:-662px 1000px -10px 380px;
 	font-weight:normal;
 	border-right: solid white;
 	border-left: solid white;
@@ -93,7 +89,9 @@ h5 {
 	font-weight:normal;
 	font-size: 25px;
 }
-h6 {height:470px;
+
+h6 {
+	height:470px;
 	width:670px;
 	margin:-550px 0px -30px 400px;
 	font-family: "Trebuchet MS", sans-serif;
@@ -101,11 +99,13 @@ h6 {height:470px;
 	font-weight:normal;
 	font-size: 25px;
 }
-.p1{
+
+.p1 {
 	text-align:left;
 	font-family: system-ui;
 	font-variant: normal; 
 }
+
 .p2  {
 	height:400px;
 	width:600px;
@@ -114,30 +114,27 @@ h6 {height:470px;
 	list-style-type: square; 
 	background:none;
 	opacity:0.96;
-	}
+}
 
 img {
-  float: left;
-  border:solid white;
+ 	float: left;
+  	border:solid white;
 }
 
 ul {
-    list-style-type: square; 
-    font-family: "Trebuchet MS", sans-serif;
-    font-size: 14px;
-    }
+   	list-style-type: square; 
+    	font-family: "Trebuchet MS", sans-serif;
+   	font-size: 14px;
+}
 
 #tylerh2 {
-    
-    color:#AB2229; 
+     	color:#AB2229; 
 }
 
 #rickyh2 {
-    
-    color:#E2C599; 
+    	color:#E2C599; 
 }
 
 #tomh2 {
-    
-    color:#B05331; 
+   	color:#B05331; 
 }
