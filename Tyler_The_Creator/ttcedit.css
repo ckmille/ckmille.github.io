@@ -1,6 +1,7 @@
 html{
 	background-image: url(ttcb.jpg); 
-	overflow-x:hidden
+	maw-width : 100%;
+	overflow-x:hidden;
 }
 
 body {
