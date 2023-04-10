@@ -1,22 +1,18 @@
-html
-{
+html {
 	background-image: url(rmfond.png); 	
 }
 
 
-body 
-{
+body {
 	font-family: "Comic Sans MS", cursive, sans-serif;
 }
 
 
-nav 
-{ 
-		background:#E1C498;
+nav { 
+	background:#E1C498;
 }
 
 h2 {
-	
 	color:#E1C498;
 	opacity:0.7;
 }
@@ -34,8 +30,8 @@ h3 {
 	font-weight:bold;
 }
 
-h4{
-    height:170px;
+h4 {
+     	height:170px;
 	width:1140px;
 	color:white;
 	background:#E1C498;
@@ -54,16 +50,16 @@ h6 {
 	color:#4B4643; 
 }
 
-.p1{
+.p1 {
 	color:#4B4643;
 	font-size: 17px;
 }
 	
 .p2  {
 	color:#4B4643;
-    margin:-420px -500px 100px 580px;
-	}
+    	margin:-420px -500px 100px 580px;
+}
 
 ul {
-    margin:-350px 400px 0px 400px ;
-    }
+    	margin:-350px 400px 0px 400px ;
+}
